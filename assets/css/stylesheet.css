@@ -1,0 +1,33 @@
+img {
+    width:auto;
+    height: 275px;
+}
+
+nav {
+    display: flex;
+    background-color: #13293d;
+    justify-content:   space-evenly;
+}
+
+nav a {
+    color: white;
+    display: flex;
+    font-size: large;
+    padding: 14px 20px;
+    text-decoration: underline;
+    align-content: center;
+    align-items: center;
+    justify-content: space-evenly;
+  }
+
+  nav h1 {
+    color: white;
+    display: flex;
+    font-size: large;
+  }
+
+  h1 {
+    margin-left: 100px 100px 100px 100px;
+    display: block;
+    justify-content: left;
+  }
