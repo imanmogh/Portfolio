@@ -23,7 +23,8 @@ body {
     background-color: var(--background-color);
 }
 
-  
+/*--------------------------------------------------------*/
+
 /* Heading and navigation bar */
 
 header {
@@ -68,9 +69,9 @@ img {
     height: 400px;    
 }
 
- /*--------------------------------------------------------*/
+/*--------------------------------------------------------*/
 
-  /* About Me Section */
+/* About Me Section */
 
 #about-me {
     display: flex;
@@ -97,9 +98,9 @@ img {
     padding: 70px;
 }
 
- /*--------------------------------------------------------*/
+/*--------------------------------------------------------*/
 
- /* My work Section */
+/* My work Section */
 
  #my-work {
     display: flex;
@@ -150,9 +151,9 @@ img {
   }
   
 
- /*--------------------------------------------------------*/
+/*--------------------------------------------------------*/
 
-  /* Contact me Section */
+/* Contact me Section */
 
   #contact-me {
     display: flex;
@@ -186,7 +187,9 @@ img {
 }
 
 
+/*--------------------------------------------------------*/
 
+/* Different screen layouts */
 
 @media screen and (max-width: 900px) {
     .column {
