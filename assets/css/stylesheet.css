@@ -139,7 +139,7 @@ img {
   }
 
   .content {
-    padding-left: 10px;
+    padding: 25px;
   }
 
   .image {
@@ -150,6 +150,9 @@ img {
     border-left: 5px solid var(--navlink-color);           
   }
   
+  #trip-planner img{
+    padding: 25px;
+  }
 
 /*--------------------------------------------------------*/
 
